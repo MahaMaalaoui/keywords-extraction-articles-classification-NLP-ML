@@ -5,11 +5,11 @@ import numpy as np
 
 
 
-df0 = pd.read_csv("C:/Users/Maha/Desktop/projetnlp/data/covid_abstracts.csv")
+df0 = pd.read_csv("/data/covid_abstracts.csv")
 df0=df0['title']+df0['abstract']
 
 
-df1 = pd.read_csv("C:/Users/Maha/Desktop/projetnlp/data/train.csv")
+df1 = pd.read_csv("/data/train.csv")
 df1=df1[:10000]
 df1=df1['TITLE']+df1['ABSTRACT']
 
