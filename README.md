@@ -1,5 +1,5 @@
 # ProjetNLP
-keywords extraction and articles classification
+keywords extraction and articles classification.
 In articles, keywords are an important element since they represent the content of the article. 
 Keywords also play a crucial role in locating the article from information retrieval systems, bibliographic databases and for search engine optimization. 
 The keywords also help to classify the article according to the subject or the discipline.
